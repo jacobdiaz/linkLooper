@@ -26,7 +26,7 @@ $(document).ready(function() {
 	function nextTimer() {
 		window.setTimeout(function() {
 			nextPage();
-		}, 3000); // 3 Seconds
+		}, 5000); // 5 Seconds
 	}
 
 	nextPage();
